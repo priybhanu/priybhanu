@@ -22,7 +22,7 @@
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>&nbsp;&nbsp;
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />&nbsp;&nbsp;
 <img alt="Python" width="90px" src="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" />&nbsp;&nbsp;
-<img alt="Brackets" width="42px" length="120px" src="https://w7.pngwing.com/pngs/191/649/png-transparent-blue-square-symbol-trademark-apps-brackets-blue-trademark-rectangle.png" />&nbsp;&nbsp;
+<img alt="Brackets" width="42px" length="200px" src="https://w7.pngwing.com/pngs/191/649/png-transparent-blue-square-symbol-trademark-apps-brackets-blue-trademark-rectangle.png" />&nbsp;&nbsp;
 ---
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=priybhanu&label=Profile%20views&color=0e75b6&style=flat" alt="priybhanu" /> </p>
   
